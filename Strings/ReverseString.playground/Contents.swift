@@ -12,6 +12,6 @@ func reverseWord(word: String) -> String {
 }
 
 reverseWord(word: "American")
-
+//output is "naciremA"
 
 
