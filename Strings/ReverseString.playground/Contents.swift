@@ -15,3 +15,9 @@ reverseWord(word: "American")
 //output is "naciremA"
 
 
+var temp = "hey man"
+
+reverseWord(word: temp)
+//output is "nam yeh"
+
+
